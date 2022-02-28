@@ -1,0 +1,19 @@
+BODY{
+			
+			background: #D9D9D9;
+			font-family: Quicksand;
+			color: #101010;
+		}
+		
+		
+		#header{
+			background: #0696D7;
+			height: 70px;
+		}
+		
+		@media only screen and (max-width: 990px){
+			.progress{ margin-bottom: 20px; }
+		}
+
+		
+ 
